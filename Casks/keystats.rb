@@ -1,6 +1,6 @@
 cask "keystats" do
-  version "1.20"
-  sha256 "b4cf92dd83ad129915760e061f66f88d35e96bad14bc5fcb04ab1474dd7e8b01"  # TODO: Will be auto-updated by GitHub Actions on first release
+  version "1.21"
+  sha256 "12d549080bef0d6148a925ab5debb96c9861e352b4f55ae6fab9990412a8e5e6"  # TODO: Will be auto-updated by GitHub Actions on first release
 
   url "https://github.com/debugtheworldbot/keyStats/releases/download/v#{version}/KeyStats.dmg"
   name "KeyStats"

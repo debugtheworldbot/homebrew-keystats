@@ -7,7 +7,7 @@ cask "keystats" do
   desc "macOS menu bar app for tracking keyboard and mouse statistics"
   homepage "https://github.com/debugtheworldbot/keyStats"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "KeyStats.app"
 
